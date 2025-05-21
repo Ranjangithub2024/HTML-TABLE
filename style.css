@@ -1,0 +1,14 @@
+th,td{
+    text-align: left;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    
+}
+tr:nth-child(odd){
+    background-color:lightyellow;
+}
+tr:nth-child(even){
+    background-color:lightblue;
+}
